@@ -1,0 +1,2 @@
+GitHub on pilvepõhine versioonihalduse ja koostööplatvorm, mis põhineb Git-i versioonihaldussüsteemil. See võimaldab arendajatel hallata oma koodi, teha koostööd, jälgida muudatusi ning automatiseerida tarkvaraarenduse protsesse.
+Tarkvaraarendajad, Ettevõtted, Õpilased ja õpetajad
